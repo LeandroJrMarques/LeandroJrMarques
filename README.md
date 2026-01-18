@@ -13,5 +13,5 @@ Sou estudante de Ciência da Computação na UFPE e Técnico em Desenvolvimento 
 * 🌱 Desenvolvi um sistema de gestão do *Ambulatório do Hóspital das clinicas**.
 
 ### 📫 Contato
-* [LinkedIn](https://linkedin.com/in/Leandrolr)
+* [LinkedIn](https://www.linkedin.com/in/leandro-jr-marques--dev)
 * E-mail: Leandrojr7367@gmail.com
