@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou o Leandro! 👋
 
-<!--
-**LeandroJrMarques/LeandroJrMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação na UFPE e Técnico em Desenvolvimento de Sistemas. Apaixonado por usar tecnologia para impacto social e acessibilidade.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+* **Front-end:** React, HTML5, CSS3, JavaScript, TypeScript
+* **Back-end/Dados:** Python, C++, SQL
+* **Data Analysis:** Power BI, Excel Avançado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em Destaque
+* 🔭 Atualmente trabalhando em projetos de automação e dados.
+* 📱 Criador do **Longoka**, app de acessibilidade para ensino de Braille.
+* 🌱 Desenvolvi o sistema de gestão do **Refúgio das Bromélias** (Iniciação Científica).
+
+### 📫 Contato
+* [LinkedIn](https://linkedin.com/in/Leandrolr)
+* E-mail: Leandrojr7367@gmail.com
