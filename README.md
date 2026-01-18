@@ -8,9 +8,9 @@ Sou estudante de Ciência da Computação na UFPE e Técnico em Desenvolvimento 
 * **Data Analysis:** Power BI, Excel Avançado
 
 ### 🚀 Projetos em Destaque
-* 🔭 Atualmente trabalhando em projetos de automação e dados.
+* 🔭 Atualmente trabalhando em projetos fullstack.
 * 📱 Criador do **Longoka**, app de acessibilidade para ensino de Braille.
-* 🌱 Desenvolvi o sistema de gestão do **Refúgio das Bromélias** (Iniciação Científica).
+* 🌱 Desenvolvi um sistema de gestão do *Ambulatório do Hóspital das clinicas**.
 
 ### 📫 Contato
 * [LinkedIn](https://linkedin.com/in/Leandrolr)
